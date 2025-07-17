@@ -1,0 +1,1001 @@
+customer_id,age,gender,city,membership_level
+CUST0000,56,Female,Rio de Janeiro,Platinum
+CUST0001,69,Male,São Paulo,Gold
+CUST0002,46,Male,Curitiba,Platinum
+CUST0003,32,Male,Curitiba,Gold
+CUST0004,60,Male,Belo Horizonte,Bronze
+CUST0005,25,Male,Porto Alegre,Bronze
+CUST0006,38,Male,Belo Horizonte,Gold
+CUST0007,56,Male,Belo Horizonte,Silver
+CUST0008,36,Male,São Paulo,Bronze
+CUST0009,40,Female,Porto Alegre,Bronze
+CUST0010,28,Female,São Paulo,Platinum
+CUST0011,28,Female,Porto Alegre,Silver
+CUST0012,41,Female,Porto Alegre,Silver
+CUST0013,53,Female,Porto Alegre,Silver
+CUST0014,57,Male,São Paulo,Bronze
+CUST0015,41,Female,Rio de Janeiro,Bronze
+CUST0016,20,Female,São Paulo,Bronze
+CUST0017,39,Female,Rio de Janeiro,Bronze
+CUST0018,19,Male,São Paulo,Gold
+CUST0019,41,Male,Curitiba,Silver
+CUST0020,61,Male,Belo Horizonte,Gold
+CUST0021,47,Male,Rio de Janeiro,Gold
+CUST0022,55,Female,Rio de Janeiro,Bronze
+CUST0023,19,Female,Rio de Janeiro,Silver
+CUST0024,38,Male,Belo Horizonte,Silver
+CUST0025,50,Other,Belo Horizonte,Gold
+CUST0026,29,Female,Curitiba,Bronze
+CUST0027,39,Male,Rio de Janeiro,Silver
+CUST0028,61,Male,Curitiba,Silver
+CUST0029,42,Male,Curitiba,Bronze
+CUST0030,66,Male,São Paulo,Bronze
+CUST0031,44,Male,Curitiba,Silver
+CUST0032,59,Male,São Paulo,Gold
+CUST0033,45,Male,Porto Alegre,Bronze
+CUST0034,33,Male,Rio de Janeiro,Silver
+CUST0035,32,Female,Curitiba,Bronze
+CUST0036,64,Male,Curitiba,Gold
+CUST0037,68,Female,Porto Alegre,Bronze
+CUST0038,61,Male,Porto Alegre,Gold
+CUST0039,69,Other,Rio de Janeiro,Bronze
+CUST0040,20,Male,São Paulo,Bronze
+CUST0041,54,Male,Rio de Janeiro,Bronze
+CUST0042,68,Other,São Paulo,Bronze
+CUST0043,24,Female,Belo Horizonte,Silver
+CUST0044,38,Female,Rio de Janeiro,Bronze
+CUST0045,26,Male,Curitiba,Gold
+CUST0046,56,Male,Belo Horizonte,Bronze
+CUST0047,35,Female,Porto Alegre,Bronze
+CUST0048,21,Female,São Paulo,Bronze
+CUST0049,42,Female,Curitiba,Bronze
+CUST0050,31,Female,Curitiba,Bronze
+CUST0051,67,Male,Rio de Janeiro,Silver
+CUST0052,26,Female,Belo Horizonte,Silver
+CUST0053,43,Male,Porto Alegre,Silver
+CUST0054,19,Male,São Paulo,Silver
+CUST0055,37,Male,Belo Horizonte,Silver
+CUST0056,45,Female,Rio de Janeiro,Bronze
+CUST0057,64,Male,São Paulo,Silver
+CUST0058,24,Male,Rio de Janeiro,Platinum
+CUST0059,61,Female,São Paulo,Silver
+CUST0060,25,Male,São Paulo,Silver
+CUST0061,64,Female,São Paulo,Bronze
+CUST0062,52,Male,Curitiba,Gold
+CUST0063,31,Female,Belo Horizonte,Gold
+CUST0064,34,Female,Curitiba,Silver
+CUST0065,53,Male,Rio de Janeiro,Platinum
+CUST0066,67,Male,Rio de Janeiro,Bronze
+CUST0067,57,Male,Belo Horizonte,Bronze
+CUST0068,21,Male,Rio de Janeiro,Gold
+CUST0069,19,Other,São Paulo,Gold
+CUST0070,23,Male,Belo Horizonte,Bronze
+CUST0071,59,Female,São Paulo,Bronze
+CUST0072,21,Male,Belo Horizonte,Bronze
+CUST0073,46,Female,Belo Horizonte,Bronze
+CUST0074,35,Female,São Paulo,Gold
+CUST0075,43,Female,São Paulo,Silver
+CUST0076,61,Male,Porto Alegre,Bronze
+CUST0077,51,Male,Rio de Janeiro,Bronze
+CUST0078,27,Male,São Paulo,Bronze
+CUST0079,53,Female,Curitiba,Bronze
+CUST0080,31,Female,São Paulo,Silver
+CUST0081,48,Other,Belo Horizonte,Platinum
+CUST0082,65,Male,Curitiba,Gold
+CUST0083,32,Female,São Paulo,Bronze
+CUST0084,25,Female,São Paulo,Gold
+CUST0085,31,Male,São Paulo,Gold
+CUST0086,40,Male,Rio de Janeiro,Gold
+CUST0087,57,Female,São Paulo,Silver
+CUST0088,38,Female,Belo Horizonte,Bronze
+CUST0089,33,Female,São Paulo,Bronze
+CUST0090,62,Male,Belo Horizonte,Bronze
+CUST0091,35,Female,Curitiba,Bronze
+CUST0092,64,Male,Porto Alegre,Bronze
+CUST0093,41,Male,Belo Horizonte,Silver
+CUST0094,43,Male,Rio de Janeiro,Gold
+CUST0095,42,Female,Belo Horizonte,Silver
+CUST0096,62,Female,Belo Horizonte,Bronze
+CUST0097,58,Female,Rio de Janeiro,Platinum
+CUST0098,46,Male,São Paulo,Platinum
+CUST0099,32,Female,Curitiba,Gold
+CUST0100,62,Male,Rio de Janeiro,Platinum
+CUST0101,18,Female,São Paulo,Silver
+CUST0102,42,Male,Rio de Janeiro,Platinum
+CUST0103,24,Male,Rio de Janeiro,Bronze
+CUST0104,26,Male,Porto Alegre,Bronze
+CUST0105,41,Male,Porto Alegre,Bronze
+CUST0106,18,Female,Porto Alegre,Bronze
+CUST0107,61,Female,São Paulo,Bronze
+CUST0108,25,Male,Rio de Janeiro,Silver
+CUST0109,41,Female,Rio de Janeiro,Gold
+CUST0110,28,Male,São Paulo,Silver
+CUST0111,68,Female,São Paulo,Bronze
+CUST0112,34,Female,Porto Alegre,Gold
+CUST0113,25,Female,São Paulo,Silver
+CUST0114,52,Male,Belo Horizonte,Bronze
+CUST0115,52,Female,São Paulo,Silver
+CUST0116,50,Female,São Paulo,Bronze
+CUST0117,22,Male,São Paulo,Bronze
+CUST0118,59,Male,Curitiba,Platinum
+CUST0119,56,Female,Porto Alegre,Bronze
+CUST0120,58,Female,Curitiba,Silver
+CUST0121,45,Female,Rio de Janeiro,Gold
+CUST0122,24,Female,São Paulo,Gold
+CUST0123,26,Female,Belo Horizonte,Bronze
+CUST0124,25,Male,Rio de Janeiro,Bronze
+CUST0125,29,Male,Porto Alegre,Bronze
+CUST0126,51,Male,São Paulo,Silver
+CUST0127,50,Female,Rio de Janeiro,Silver
+CUST0128,65,Male,São Paulo,Bronze
+CUST0129,40,Female,Rio de Janeiro,Platinum
+CUST0130,41,Female,Porto Alegre,Silver
+CUST0131,54,Female,Rio de Janeiro,Bronze
+CUST0132,52,Male,Rio de Janeiro,Silver
+CUST0133,61,Female,Rio de Janeiro,Silver
+CUST0134,57,Male,Rio de Janeiro,Bronze
+CUST0135,39,Female,Porto Alegre,Bronze
+CUST0136,44,Male,Curitiba,Gold
+CUST0137,52,Male,Curitiba,Silver
+CUST0138,18,Female,Porto Alegre,Silver
+CUST0139,52,Male,Rio de Janeiro,Silver
+CUST0140,54,Male,Belo Horizonte,Bronze
+CUST0141,64,Female,Rio de Janeiro,Bronze
+CUST0142,31,Female,São Paulo,Silver
+CUST0143,20,Female,Porto Alegre,Bronze
+CUST0144,18,Female,São Paulo,Bronze
+CUST0145,22,Female,Curitiba,Gold
+CUST0146,43,Male,Rio de Janeiro,Platinum
+CUST0147,31,Male,Belo Horizonte,Gold
+CUST0148,56,Male,Belo Horizonte,Gold
+CUST0149,44,Female,Curitiba,Bronze
+CUST0150,26,Female,Belo Horizonte,Platinum
+CUST0151,32,Male,Belo Horizonte,Bronze
+CUST0152,32,Male,São Paulo,Platinum
+CUST0153,43,Female,Belo Horizonte,Platinum
+CUST0154,59,Male,São Paulo,Gold
+CUST0155,30,Female,Porto Alegre,Platinum
+CUST0156,68,Female,Belo Horizonte,Silver
+CUST0157,49,Female,Belo Horizonte,Bronze
+CUST0158,56,Male,São Paulo,Silver
+CUST0159,66,Female,São Paulo,Silver
+CUST0160,69,Female,Porto Alegre,Bronze
+CUST0161,49,Female,São Paulo,Silver
+CUST0162,21,Female,São Paulo,Platinum
+CUST0163,47,Female,São Paulo,Bronze
+CUST0164,54,Female,Curitiba,Gold
+CUST0165,40,Male,Porto Alegre,Platinum
+CUST0166,56,Female,Rio de Janeiro,Platinum
+CUST0167,62,Female,São Paulo,Platinum
+CUST0168,32,Male,Rio de Janeiro,Silver
+CUST0169,60,Female,Porto Alegre,Platinum
+CUST0170,46,Female,Belo Horizonte,Gold
+CUST0171,53,Female,São Paulo,Bronze
+CUST0172,30,Male,São Paulo,Silver
+CUST0173,49,Male,São Paulo,Gold
+CUST0174,24,Other,Belo Horizonte,Bronze
+CUST0175,68,Female,Porto Alegre,Silver
+CUST0176,39,Male,São Paulo,Silver
+CUST0177,45,Female,São Paulo,Bronze
+CUST0178,19,Female,São Paulo,Silver
+CUST0179,59,Female,Curitiba,Gold
+CUST0180,62,Female,São Paulo,Silver
+CUST0181,23,Male,Porto Alegre,Bronze
+CUST0182,45,Male,Belo Horizonte,Bronze
+CUST0183,45,Male,Rio de Janeiro,Bronze
+CUST0184,61,Female,São Paulo,Platinum
+CUST0185,61,Male,São Paulo,Bronze
+CUST0186,37,Male,Belo Horizonte,Silver
+CUST0187,47,Male,Porto Alegre,Bronze
+CUST0188,28,Female,Belo Horizonte,Bronze
+CUST0189,45,Female,Belo Horizonte,Gold
+CUST0190,42,Male,São Paulo,Gold
+CUST0191,56,Male,Curitiba,Bronze
+CUST0192,50,Female,Porto Alegre,Silver
+CUST0193,18,Male,São Paulo,Bronze
+CUST0194,44,Male,Curitiba,Silver
+CUST0195,69,Male,Belo Horizonte,Silver
+CUST0196,30,Male,Belo Horizonte,Bronze
+CUST0197,58,Male,Porto Alegre,Bronze
+CUST0198,20,Female,Porto Alegre,Bronze
+CUST0199,56,Male,Belo Horizonte,Platinum
+CUST0200,23,Female,São Paulo,Platinum
+CUST0201,25,Male,Rio de Janeiro,Bronze
+CUST0202,44,Female,Curitiba,Gold
+CUST0203,26,Female,São Paulo,Bronze
+CUST0204,54,Male,Rio de Janeiro,Bronze
+CUST0205,50,Female,Rio de Janeiro,Gold
+CUST0206,68,Male,Rio de Janeiro,Platinum
+CUST0207,59,Other,Belo Horizonte,Platinum
+CUST0208,61,Male,Curitiba,Silver
+CUST0209,41,Male,São Paulo,Bronze
+CUST0210,32,Male,São Paulo,Gold
+CUST0211,49,Other,São Paulo,Bronze
+CUST0212,49,Female,Curitiba,Silver
+CUST0213,41,Female,Belo Horizonte,Bronze
+CUST0214,58,Male,São Paulo,Silver
+CUST0215,69,Female,Porto Alegre,Bronze
+CUST0216,66,Male,Curitiba,Bronze
+CUST0217,66,Female,Porto Alegre,Platinum
+CUST0218,69,Male,Curitiba,Bronze
+CUST0219,29,Male,São Paulo,Silver
+CUST0220,56,Male,Porto Alegre,Bronze
+CUST0221,19,Male,Rio de Janeiro,Bronze
+CUST0222,20,Female,Porto Alegre,Bronze
+CUST0223,66,Male,Porto Alegre,Bronze
+CUST0224,54,Female,Porto Alegre,Gold
+CUST0225,66,Male,Belo Horizonte,Bronze
+CUST0226,34,Female,São Paulo,Platinum
+CUST0227,66,Male,Belo Horizonte,Silver
+CUST0228,19,Male,Curitiba,Silver
+CUST0229,19,Female,Curitiba,Silver
+CUST0230,45,Male,São Paulo,Silver
+CUST0231,40,Male,São Paulo,Gold
+CUST0232,54,Female,São Paulo,Bronze
+CUST0233,49,Female,Porto Alegre,Bronze
+CUST0234,50,Male,Porto Alegre,Gold
+CUST0235,18,Male,São Paulo,Platinum
+CUST0236,36,Female,Belo Horizonte,Gold
+CUST0237,19,Male,Porto Alegre,Silver
+CUST0238,61,Male,Porto Alegre,Gold
+CUST0239,43,Male,Belo Horizonte,Silver
+CUST0240,49,Female,Belo Horizonte,Silver
+CUST0241,23,Female,Belo Horizonte,Bronze
+CUST0242,49,Male,São Paulo,Silver
+CUST0243,21,Male,Belo Horizonte,Bronze
+CUST0244,28,Male,Belo Horizonte,Bronze
+CUST0245,34,Female,Curitiba,Gold
+CUST0246,55,Male,Belo Horizonte,Bronze
+CUST0247,41,Male,Porto Alegre,Bronze
+CUST0248,22,Female,São Paulo,Bronze
+CUST0249,69,Male,Rio de Janeiro,Platinum
+CUST0250,51,Female,São Paulo,Silver
+CUST0251,23,Male,São Paulo,Silver
+CUST0252,39,Male,Porto Alegre,Gold
+CUST0253,28,Male,Curitiba,Gold
+CUST0254,65,Female,São Paulo,Bronze
+CUST0255,33,Female,Rio de Janeiro,Silver
+CUST0256,50,Female,Porto Alegre,Gold
+CUST0257,26,Male,São Paulo,Silver
+CUST0258,23,Female,Belo Horizonte,Bronze
+CUST0259,33,Male,Porto Alegre,Gold
+CUST0260,46,Male,Belo Horizonte,Silver
+CUST0261,20,Female,São Paulo,Bronze
+CUST0262,37,Male,Rio de Janeiro,Silver
+CUST0263,53,Male,Porto Alegre,Bronze
+CUST0264,36,Male,Belo Horizonte,Bronze
+CUST0265,43,Male,São Paulo,Gold
+CUST0266,20,Male,Porto Alegre,Bronze
+CUST0267,36,Female,São Paulo,Silver
+CUST0268,37,Male,Porto Alegre,Silver
+CUST0269,49,Female,São Paulo,Bronze
+CUST0270,24,Female,Curitiba,Platinum
+CUST0271,69,Male,Rio de Janeiro,Bronze
+CUST0272,58,Male,Rio de Janeiro,Bronze
+CUST0273,50,Male,São Paulo,Bronze
+CUST0274,57,Female,Rio de Janeiro,Bronze
+CUST0275,56,Male,Curitiba,Bronze
+CUST0276,35,Female,Curitiba,Gold
+CUST0277,57,Male,Rio de Janeiro,Platinum
+CUST0278,18,Female,Rio de Janeiro,Bronze
+CUST0279,28,Male,Porto Alegre,Silver
+CUST0280,45,Male,Curitiba,Gold
+CUST0281,42,Female,Belo Horizonte,Gold
+CUST0282,67,Female,Rio de Janeiro,Silver
+CUST0283,40,Male,Rio de Janeiro,Bronze
+CUST0284,48,Female,Belo Horizonte,Bronze
+CUST0285,47,Female,São Paulo,Gold
+CUST0286,59,Female,Belo Horizonte,Gold
+CUST0287,52,Female,Rio de Janeiro,Bronze
+CUST0288,24,Male,Porto Alegre,Bronze
+CUST0289,33,Male,São Paulo,Platinum
+CUST0290,43,Male,Belo Horizonte,Gold
+CUST0291,65,Female,Rio de Janeiro,Platinum
+CUST0292,69,Female,Belo Horizonte,Gold
+CUST0293,66,Male,São Paulo,Bronze
+CUST0294,19,Male,Belo Horizonte,Silver
+CUST0295,18,Female,Belo Horizonte,Silver
+CUST0296,65,Other,Belo Horizonte,Bronze
+CUST0297,29,Female,Belo Horizonte,Silver
+CUST0298,22,Male,Belo Horizonte,Gold
+CUST0299,54,Male,Porto Alegre,Bronze
+CUST0300,49,Male,São Paulo,Gold
+CUST0301,26,Female,Porto Alegre,Silver
+CUST0302,58,Male,Rio de Janeiro,Platinum
+CUST0303,52,Female,São Paulo,Bronze
+CUST0304,36,Male,São Paulo,Bronze
+CUST0305,65,Female,Rio de Janeiro,Silver
+CUST0306,33,Female,Porto Alegre,Bronze
+CUST0307,20,Female,Porto Alegre,Gold
+CUST0308,37,Male,Porto Alegre,Gold
+CUST0309,41,Male,Belo Horizonte,Bronze
+CUST0310,50,Male,Rio de Janeiro,Silver
+CUST0311,41,Female,São Paulo,Silver
+CUST0312,69,Female,Rio de Janeiro,Bronze
+CUST0313,28,Female,Rio de Janeiro,Platinum
+CUST0314,66,Female,São Paulo,Gold
+CUST0315,25,Female,São Paulo,Silver
+CUST0316,53,Male,Belo Horizonte,Gold
+CUST0317,55,Female,Porto Alegre,Silver
+CUST0318,57,Male,Curitiba,Platinum
+CUST0319,37,Male,Curitiba,Silver
+CUST0320,52,Female,Belo Horizonte,Gold
+CUST0321,65,Male,Rio de Janeiro,Gold
+CUST0322,42,Male,Belo Horizonte,Bronze
+CUST0323,52,Female,Porto Alegre,Gold
+CUST0324,42,Male,São Paulo,Bronze
+CUST0325,46,Female,Rio de Janeiro,Bronze
+CUST0326,35,Male,Porto Alegre,Bronze
+CUST0327,63,Male,Rio de Janeiro,Platinum
+CUST0328,35,Male,Belo Horizonte,Gold
+CUST0329,19,Male,Belo Horizonte,Gold
+CUST0330,52,Female,São Paulo,Gold
+CUST0331,33,Male,Rio de Janeiro,Silver
+CUST0332,58,Female,Rio de Janeiro,Platinum
+CUST0333,53,Male,São Paulo,Silver
+CUST0334,50,Female,São Paulo,Bronze
+CUST0335,21,Female,Porto Alegre,Bronze
+CUST0336,50,Female,São Paulo,Gold
+CUST0337,31,Male,Belo Horizonte,Gold
+CUST0338,38,Male,São Paulo,Bronze
+CUST0339,65,Male,Curitiba,Bronze
+CUST0340,37,Female,São Paulo,Gold
+CUST0341,25,Male,Rio de Janeiro,Bronze
+CUST0342,24,Female,Curitiba,Gold
+CUST0343,20,Female,Porto Alegre,Platinum
+CUST0344,34,Male,São Paulo,Silver
+CUST0345,50,Female,Porto Alegre,Bronze
+CUST0346,65,Male,Rio de Janeiro,Gold
+CUST0347,29,Male,Rio de Janeiro,Gold
+CUST0348,68,Female,São Paulo,Silver
+CUST0349,39,Female,São Paulo,Platinum
+CUST0350,39,Female,Porto Alegre,Bronze
+CUST0351,63,Male,Rio de Janeiro,Silver
+CUST0352,47,Male,Rio de Janeiro,Gold
+CUST0353,55,Female,Porto Alegre,Gold
+CUST0354,55,Female,Porto Alegre,Bronze
+CUST0355,62,Female,São Paulo,Gold
+CUST0356,68,Male,Belo Horizonte,Silver
+CUST0357,25,Female,São Paulo,Bronze
+CUST0358,44,Male,Porto Alegre,Bronze
+CUST0359,44,Male,Belo Horizonte,Gold
+CUST0360,51,Female,Curitiba,Bronze
+CUST0361,38,Male,São Paulo,Bronze
+CUST0362,47,Female,São Paulo,Bronze
+CUST0363,50,Male,São Paulo,Gold
+CUST0364,45,Male,São Paulo,Silver
+CUST0365,64,Female,São Paulo,Gold
+CUST0366,50,Female,Curitiba,Bronze
+CUST0367,22,Female,São Paulo,Silver
+CUST0368,65,Female,São Paulo,Silver
+CUST0369,36,Female,Porto Alegre,Gold
+CUST0370,21,Female,Rio de Janeiro,Platinum
+CUST0371,52,Female,Porto Alegre,Bronze
+CUST0372,66,Male,São Paulo,Silver
+CUST0373,34,Female,Rio de Janeiro,Bronze
+CUST0374,61,Male,São Paulo,Silver
+CUST0375,45,Other,São Paulo,Bronze
+CUST0376,47,Female,Curitiba,Bronze
+CUST0377,46,Male,São Paulo,Bronze
+CUST0378,63,Female,Belo Horizonte,Silver
+CUST0379,23,Female,Rio de Janeiro,Bronze
+CUST0380,52,Male,Rio de Janeiro,Gold
+CUST0381,58,Female,Curitiba,Silver
+CUST0382,54,Female,São Paulo,Bronze
+CUST0383,41,Male,Belo Horizonte,Gold
+CUST0384,46,Female,Curitiba,Bronze
+CUST0385,66,Male,Belo Horizonte,Silver
+CUST0386,63,Female,Curitiba,Silver
+CUST0387,48,Other,São Paulo,Bronze
+CUST0388,52,Female,Rio de Janeiro,Bronze
+CUST0389,50,Male,São Paulo,Bronze
+CUST0390,69,Female,Porto Alegre,Platinum
+CUST0391,38,Female,Curitiba,Silver
+CUST0392,49,Male,São Paulo,Silver
+CUST0393,40,Female,Belo Horizonte,Silver
+CUST0394,50,Male,São Paulo,Bronze
+CUST0395,20,Female,Belo Horizonte,Silver
+CUST0396,35,Male,Rio de Janeiro,Gold
+CUST0397,42,Male,Curitiba,Bronze
+CUST0398,59,Male,Belo Horizonte,Bronze
+CUST0399,48,Female,Rio de Janeiro,Bronze
+CUST0400,20,Male,São Paulo,Silver
+CUST0401,57,Female,São Paulo,Platinum
+CUST0402,63,Male,São Paulo,Bronze
+CUST0403,41,Male,São Paulo,Silver
+CUST0404,67,Female,Curitiba,Bronze
+CUST0405,49,Female,Belo Horizonte,Platinum
+CUST0406,64,Male,Belo Horizonte,Bronze
+CUST0407,39,Female,São Paulo,Silver
+CUST0408,40,Female,Curitiba,Gold
+CUST0409,19,Female,Porto Alegre,Gold
+CUST0410,44,Male,São Paulo,Silver
+CUST0411,59,Male,Porto Alegre,Bronze
+CUST0412,19,Female,Belo Horizonte,Bronze
+CUST0413,43,Male,São Paulo,Bronze
+CUST0414,34,Female,Rio de Janeiro,Bronze
+CUST0415,57,Female,Rio de Janeiro,Silver
+CUST0416,50,Female,São Paulo,Bronze
+CUST0417,26,Female,Curitiba,Bronze
+CUST0418,60,Other,Porto Alegre,Silver
+CUST0419,65,Male,Belo Horizonte,Platinum
+CUST0420,56,Female,Rio de Janeiro,Silver
+CUST0421,46,Male,Rio de Janeiro,Bronze
+CUST0422,59,Male,Belo Horizonte,Bronze
+CUST0423,43,Female,Belo Horizonte,Platinum
+CUST0424,52,Female,São Paulo,Bronze
+CUST0425,67,Other,Belo Horizonte,Bronze
+CUST0426,42,Female,Porto Alegre,Silver
+CUST0427,41,Male,Rio de Janeiro,Silver
+CUST0428,30,Male,São Paulo,Silver
+CUST0429,24,Female,Porto Alegre,Bronze
+CUST0430,53,Male,São Paulo,Bronze
+CUST0431,62,Male,São Paulo,Platinum
+CUST0432,37,Male,São Paulo,Bronze
+CUST0433,18,Male,Rio de Janeiro,Silver
+CUST0434,25,Male,Porto Alegre,Gold
+CUST0435,63,Male,Belo Horizonte,Silver
+CUST0436,33,Male,São Paulo,Bronze
+CUST0437,31,Male,Curitiba,Bronze
+CUST0438,29,Other,Curitiba,Silver
+CUST0439,68,Male,Curitiba,Gold
+CUST0440,40,Male,São Paulo,Platinum
+CUST0441,32,Female,Rio de Janeiro,Bronze
+CUST0442,45,Male,Curitiba,Bronze
+CUST0443,51,Female,Porto Alegre,Platinum
+CUST0444,19,Female,São Paulo,Gold
+CUST0445,49,Male,São Paulo,Gold
+CUST0446,40,Male,Rio de Janeiro,Bronze
+CUST0447,39,Female,Curitiba,Silver
+CUST0448,68,Female,Belo Horizonte,Gold
+CUST0449,42,Male,Rio de Janeiro,Silver
+CUST0450,39,Female,São Paulo,Silver
+CUST0451,39,Male,Belo Horizonte,Bronze
+CUST0452,66,Other,Porto Alegre,Silver
+CUST0453,69,Male,Rio de Janeiro,Bronze
+CUST0454,59,Female,Porto Alegre,Silver
+CUST0455,23,Female,Curitiba,Platinum
+CUST0456,32,Female,São Paulo,Bronze
+CUST0457,60,Female,Belo Horizonte,Gold
+CUST0458,54,Male,São Paulo,Bronze
+CUST0459,50,Male,Porto Alegre,Silver
+CUST0460,25,Male,Belo Horizonte,Platinum
+CUST0461,61,Male,Belo Horizonte,Bronze
+CUST0462,61,Female,Porto Alegre,Bronze
+CUST0463,22,Male,Rio de Janeiro,Silver
+CUST0464,56,Male,Curitiba,Bronze
+CUST0465,21,Other,Belo Horizonte,Gold
+CUST0466,23,Female,São Paulo,Platinum
+CUST0467,62,Female,Belo Horizonte,Silver
+CUST0468,49,Other,Porto Alegre,Bronze
+CUST0469,69,Male,Rio de Janeiro,Silver
+CUST0470,47,Male,Curitiba,Gold
+CUST0471,64,Female,Curitiba,Bronze
+CUST0472,52,Female,São Paulo,Silver
+CUST0473,57,Male,Curitiba,Silver
+CUST0474,69,Female,São Paulo,Silver
+CUST0475,33,Male,São Paulo,Bronze
+CUST0476,30,Male,São Paulo,Gold
+CUST0477,67,Female,Curitiba,Bronze
+CUST0478,59,Female,Belo Horizonte,Bronze
+CUST0479,47,Female,São Paulo,Gold
+CUST0480,36,Male,Rio de Janeiro,Gold
+CUST0481,34,Female,Belo Horizonte,Bronze
+CUST0482,36,Male,São Paulo,Bronze
+CUST0483,45,Male,Curitiba,Bronze
+CUST0484,43,Female,Porto Alegre,Bronze
+CUST0485,54,Female,Belo Horizonte,Bronze
+CUST0486,43,Female,Curitiba,Bronze
+CUST0487,40,Female,Rio de Janeiro,Silver
+CUST0488,26,Female,Curitiba,Gold
+CUST0489,29,Female,Belo Horizonte,Silver
+CUST0490,18,Male,Belo Horizonte,Silver
+CUST0491,18,Male,São Paulo,Bronze
+CUST0492,64,Male,Curitiba,Platinum
+CUST0493,51,Male,Rio de Janeiro,Gold
+CUST0494,49,Female,São Paulo,Gold
+CUST0495,65,Female,São Paulo,Gold
+CUST0496,42,Male,Belo Horizonte,Platinum
+CUST0497,57,Male,Belo Horizonte,Silver
+CUST0498,62,Female,Porto Alegre,Bronze
+CUST0499,18,Male,Curitiba,Silver
+CUST0500,33,Female,São Paulo,Gold
+CUST0501,56,Female,Porto Alegre,Gold
+CUST0502,22,Female,São Paulo,Silver
+CUST0503,39,Female,Curitiba,Bronze
+CUST0504,46,Female,Porto Alegre,Bronze
+CUST0505,20,Male,Belo Horizonte,Platinum
+CUST0506,29,Female,Porto Alegre,Silver
+CUST0507,43,Female,Rio de Janeiro,Silver
+CUST0508,33,Male,Rio de Janeiro,Bronze
+CUST0509,68,Female,Porto Alegre,Bronze
+CUST0510,54,Female,Rio de Janeiro,Gold
+CUST0511,39,Female,Rio de Janeiro,Silver
+CUST0512,46,Female,Rio de Janeiro,Gold
+CUST0513,31,Female,Porto Alegre,Silver
+CUST0514,45,Female,Rio de Janeiro,Silver
+CUST0515,22,Female,São Paulo,Bronze
+CUST0516,64,Female,Porto Alegre,Gold
+CUST0517,66,Female,Porto Alegre,Silver
+CUST0518,47,Female,São Paulo,Silver
+CUST0519,63,Female,São Paulo,Silver
+CUST0520,69,Male,São Paulo,Platinum
+CUST0521,22,Female,Rio de Janeiro,Bronze
+CUST0522,29,Female,Rio de Janeiro,Gold
+CUST0523,33,Male,Porto Alegre,Bronze
+CUST0524,43,Female,Belo Horizonte,Silver
+CUST0525,43,Male,Belo Horizonte,Bronze
+CUST0526,65,Male,Rio de Janeiro,Bronze
+CUST0527,38,Female,Porto Alegre,Silver
+CUST0528,56,Male,Rio de Janeiro,Bronze
+CUST0529,53,Female,Curitiba,Silver
+CUST0530,50,Female,Belo Horizonte,Platinum
+CUST0531,47,Female,São Paulo,Bronze
+CUST0532,54,Male,Belo Horizonte,Gold
+CUST0533,40,Male,Rio de Janeiro,Silver
+CUST0534,27,Female,Belo Horizonte,Silver
+CUST0535,22,Other,São Paulo,Bronze
+CUST0536,53,Female,São Paulo,Bronze
+CUST0537,51,Male,Curitiba,Bronze
+CUST0538,69,Female,São Paulo,Bronze
+CUST0539,48,Female,Porto Alegre,Bronze
+CUST0540,27,Female,São Paulo,Silver
+CUST0541,36,Male,Belo Horizonte,Gold
+CUST0542,49,Female,Belo Horizonte,Gold
+CUST0543,18,Female,Belo Horizonte,Silver
+CUST0544,22,Other,Rio de Janeiro,Bronze
+CUST0545,62,Male,São Paulo,Bronze
+CUST0546,21,Female,São Paulo,Bronze
+CUST0547,33,Female,Rio de Janeiro,Bronze
+CUST0548,41,Male,Belo Horizonte,Silver
+CUST0549,33,Female,Curitiba,Silver
+CUST0550,19,Female,Curitiba,Bronze
+CUST0551,66,Male,Porto Alegre,Bronze
+CUST0552,45,Male,Porto Alegre,Gold
+CUST0553,49,Female,Belo Horizonte,Gold
+CUST0554,44,Male,São Paulo,Bronze
+CUST0555,37,Female,Curitiba,Platinum
+CUST0556,41,Male,Belo Horizonte,Platinum
+CUST0557,29,Female,Belo Horizonte,Bronze
+CUST0558,67,Male,São Paulo,Bronze
+CUST0559,52,Female,Rio de Janeiro,Silver
+CUST0560,50,Other,Rio de Janeiro,Platinum
+CUST0561,50,Other,Curitiba,Gold
+CUST0562,68,Female,Belo Horizonte,Bronze
+CUST0563,60,Male,Rio de Janeiro,Bronze
+CUST0564,54,Female,Curitiba,Silver
+CUST0565,29,Male,São Paulo,Silver
+CUST0566,20,Male,Rio de Janeiro,Bronze
+CUST0567,18,Male,São Paulo,Gold
+CUST0568,50,Female,Porto Alegre,Silver
+CUST0569,57,Female,Curitiba,Gold
+CUST0570,27,Female,São Paulo,Gold
+CUST0571,60,Male,Curitiba,Gold
+CUST0572,61,Male,São Paulo,Silver
+CUST0573,46,Other,Curitiba,Silver
+CUST0574,30,Male,Porto Alegre,Bronze
+CUST0575,29,Male,Porto Alegre,Silver
+CUST0576,48,Male,São Paulo,Bronze
+CUST0577,63,Female,Curitiba,Silver
+CUST0578,19,Female,Porto Alegre,Bronze
+CUST0579,68,Male,Rio de Janeiro,Bronze
+CUST0580,67,Male,Porto Alegre,Bronze
+CUST0581,52,Female,São Paulo,Bronze
+CUST0582,40,Female,Curitiba,Gold
+CUST0583,34,Male,São Paulo,Gold
+CUST0584,43,Female,Porto Alegre,Silver
+CUST0585,25,Male,Belo Horizonte,Bronze
+CUST0586,46,Male,São Paulo,Bronze
+CUST0587,43,Female,São Paulo,Bronze
+CUST0588,27,Male,São Paulo,Bronze
+CUST0589,43,Female,Rio de Janeiro,Gold
+CUST0590,51,Male,Rio de Janeiro,Bronze
+CUST0591,68,Male,Belo Horizonte,Bronze
+CUST0592,58,Other,São Paulo,Bronze
+CUST0593,24,Male,São Paulo,Bronze
+CUST0594,21,Female,Porto Alegre,Silver
+CUST0595,67,Male,São Paulo,Silver
+CUST0596,62,Male,Curitiba,Bronze
+CUST0597,28,Male,Curitiba,Bronze
+CUST0598,46,Female,Belo Horizonte,Bronze
+CUST0599,53,Male,Belo Horizonte,Bronze
+CUST0600,42,Female,Curitiba,Bronze
+CUST0601,38,Male,São Paulo,Platinum
+CUST0602,53,Other,São Paulo,Silver
+CUST0603,27,Male,São Paulo,Silver
+CUST0604,54,Female,Porto Alegre,Silver
+CUST0605,26,Female,São Paulo,Silver
+CUST0606,41,Female,Belo Horizonte,Silver
+CUST0607,52,Female,Curitiba,Silver
+CUST0608,66,Female,Curitiba,Gold
+CUST0609,52,Female,Belo Horizonte,Bronze
+CUST0610,65,Male,São Paulo,Silver
+CUST0611,53,Male,Porto Alegre,Silver
+CUST0612,35,Female,Belo Horizonte,Gold
+CUST0613,66,Female,São Paulo,Silver
+CUST0614,56,Female,São Paulo,Silver
+CUST0615,49,Female,Curitiba,Bronze
+CUST0616,41,Male,Belo Horizonte,Silver
+CUST0617,40,Male,Porto Alegre,Bronze
+CUST0618,49,Female,Curitiba,Bronze
+CUST0619,54,Male,Belo Horizonte,Bronze
+CUST0620,29,Male,Belo Horizonte,Silver
+CUST0621,66,Female,Rio de Janeiro,Bronze
+CUST0622,30,Male,Rio de Janeiro,Bronze
+CUST0623,40,Female,Rio de Janeiro,Gold
+CUST0624,42,Male,Porto Alegre,Bronze
+CUST0625,52,Female,Belo Horizonte,Silver
+CUST0626,58,Male,Curitiba,Silver
+CUST0627,47,Male,Rio de Janeiro,Bronze
+CUST0628,34,Male,Belo Horizonte,Gold
+CUST0629,66,Male,Belo Horizonte,Bronze
+CUST0630,37,Male,Belo Horizonte,Silver
+CUST0631,65,Male,Porto Alegre,Silver
+CUST0632,42,Female,São Paulo,Silver
+CUST0633,39,Male,Belo Horizonte,Silver
+CUST0634,30,Female,São Paulo,Bronze
+CUST0635,36,Female,Rio de Janeiro,Bronze
+CUST0636,66,Female,Rio de Janeiro,Gold
+CUST0637,53,Male,Belo Horizonte,Silver
+CUST0638,29,Female,Curitiba,Gold
+CUST0639,58,Male,Belo Horizonte,Gold
+CUST0640,36,Male,Porto Alegre,Gold
+CUST0641,29,Other,Belo Horizonte,Silver
+CUST0642,26,Male,Belo Horizonte,Bronze
+CUST0643,24,Female,São Paulo,Gold
+CUST0644,45,Female,São Paulo,Silver
+CUST0645,31,Female,Rio de Janeiro,Bronze
+CUST0646,48,Female,Rio de Janeiro,Gold
+CUST0647,69,Male,São Paulo,Gold
+CUST0648,36,Male,São Paulo,Silver
+CUST0649,64,Female,São Paulo,Bronze
+CUST0650,33,Male,Curitiba,Bronze
+CUST0651,22,Male,Rio de Janeiro,Gold
+CUST0652,52,Male,Rio de Janeiro,Platinum
+CUST0653,29,Male,São Paulo,Bronze
+CUST0654,42,Male,Belo Horizonte,Bronze
+CUST0655,69,Male,São Paulo,Gold
+CUST0656,38,Female,São Paulo,Bronze
+CUST0657,53,Female,Belo Horizonte,Silver
+CUST0658,40,Female,São Paulo,Platinum
+CUST0659,33,Male,São Paulo,Bronze
+CUST0660,56,Male,São Paulo,Silver
+CUST0661,62,Male,São Paulo,Bronze
+CUST0662,59,Female,São Paulo,Bronze
+CUST0663,56,Female,Rio de Janeiro,Gold
+CUST0664,31,Male,Porto Alegre,Silver
+CUST0665,48,Female,Belo Horizonte,Platinum
+CUST0666,22,Male,Belo Horizonte,Silver
+CUST0667,52,Female,São Paulo,Bronze
+CUST0668,40,Female,Curitiba,Bronze
+CUST0669,46,Female,Rio de Janeiro,Bronze
+CUST0670,60,Female,São Paulo,Bronze
+CUST0671,28,Female,Belo Horizonte,Bronze
+CUST0672,35,Male,São Paulo,Bronze
+CUST0673,64,Female,Rio de Janeiro,Silver
+CUST0674,29,Male,Belo Horizonte,Gold
+CUST0675,26,Female,Curitiba,Silver
+CUST0676,27,Female,Rio de Janeiro,Gold
+CUST0677,61,Female,Porto Alegre,Bronze
+CUST0678,34,Male,Curitiba,Bronze
+CUST0679,55,Female,São Paulo,Silver
+CUST0680,24,Female,São Paulo,Silver
+CUST0681,63,Female,Rio de Janeiro,Bronze
+CUST0682,30,Male,Rio de Janeiro,Gold
+CUST0683,57,Male,Rio de Janeiro,Gold
+CUST0684,59,Male,Curitiba,Silver
+CUST0685,26,Male,Porto Alegre,Bronze
+CUST0686,67,Female,Belo Horizonte,Gold
+CUST0687,44,Male,Rio de Janeiro,Silver
+CUST0688,19,Other,Porto Alegre,Gold
+CUST0689,22,Male,Curitiba,Gold
+CUST0690,46,Male,Porto Alegre,Gold
+CUST0691,54,Female,São Paulo,Silver
+CUST0692,55,Female,Belo Horizonte,Bronze
+CUST0693,36,Female,São Paulo,Silver
+CUST0694,25,Female,São Paulo,Silver
+CUST0695,65,Female,São Paulo,Gold
+CUST0696,62,Male,Belo Horizonte,Bronze
+CUST0697,18,Other,Belo Horizonte,Bronze
+CUST0698,39,Other,São Paulo,Gold
+CUST0699,69,Female,Rio de Janeiro,Gold
+CUST0700,34,Male,Rio de Janeiro,Platinum
+CUST0701,24,Female,Rio de Janeiro,Gold
+CUST0702,42,Male,São Paulo,Silver
+CUST0703,62,Male,Rio de Janeiro,Silver
+CUST0704,21,Male,Porto Alegre,Gold
+CUST0705,53,Male,São Paulo,Silver
+CUST0706,23,Female,São Paulo,Silver
+CUST0707,48,Female,Rio de Janeiro,Bronze
+CUST0708,36,Female,Curitiba,Silver
+CUST0709,61,Male,Belo Horizonte,Gold
+CUST0710,56,Male,Belo Horizonte,Bronze
+CUST0711,44,Male,Rio de Janeiro,Bronze
+CUST0712,27,Other,Belo Horizonte,Bronze
+CUST0713,43,Male,São Paulo,Bronze
+CUST0714,36,Female,Belo Horizonte,Bronze
+CUST0715,56,Female,Curitiba,Silver
+CUST0716,20,Male,Belo Horizonte,Platinum
+CUST0717,62,Female,Curitiba,Silver
+CUST0718,30,Female,Porto Alegre,Bronze
+CUST0719,67,Female,São Paulo,Bronze
+CUST0720,45,Female,Curitiba,Silver
+CUST0721,37,Male,São Paulo,Bronze
+CUST0722,45,Male,Belo Horizonte,Gold
+CUST0723,25,Female,São Paulo,Silver
+CUST0724,58,Female,São Paulo,Gold
+CUST0725,56,Male,Rio de Janeiro,Bronze
+CUST0726,18,Female,São Paulo,Silver
+CUST0727,20,Female,Rio de Janeiro,Bronze
+CUST0728,30,Female,Belo Horizonte,Platinum
+CUST0729,45,Male,São Paulo,Silver
+CUST0730,66,Female,São Paulo,Bronze
+CUST0731,42,Female,Belo Horizonte,Bronze
+CUST0732,50,Male,Rio de Janeiro,Bronze
+CUST0733,55,Male,Porto Alegre,Silver
+CUST0734,23,Other,Belo Horizonte,Bronze
+CUST0735,61,Male,Porto Alegre,Silver
+CUST0736,62,Female,Belo Horizonte,Bronze
+CUST0737,49,Female,Rio de Janeiro,Silver
+CUST0738,62,Male,Belo Horizonte,Gold
+CUST0739,64,Female,São Paulo,Gold
+CUST0740,38,Male,Rio de Janeiro,Gold
+CUST0741,33,Female,Porto Alegre,Bronze
+CUST0742,38,Male,Rio de Janeiro,Bronze
+CUST0743,28,Female,Porto Alegre,Silver
+CUST0744,54,Male,Porto Alegre,Bronze
+CUST0745,53,Male,Curitiba,Silver
+CUST0746,52,Other,Curitiba,Bronze
+CUST0747,36,Male,Rio de Janeiro,Bronze
+CUST0748,37,Female,Rio de Janeiro,Bronze
+CUST0749,35,Male,Belo Horizonte,Gold
+CUST0750,64,Female,Rio de Janeiro,Bronze
+CUST0751,58,Male,Belo Horizonte,Silver
+CUST0752,66,Other,Porto Alegre,Bronze
+CUST0753,31,Male,Belo Horizonte,Silver
+CUST0754,32,Male,Rio de Janeiro,Bronze
+CUST0755,48,Male,São Paulo,Gold
+CUST0756,18,Male,Rio de Janeiro,Gold
+CUST0757,20,Female,São Paulo,Bronze
+CUST0758,33,Male,Curitiba,Platinum
+CUST0759,40,Female,Rio de Janeiro,Platinum
+CUST0760,28,Male,São Paulo,Gold
+CUST0761,29,Male,São Paulo,Gold
+CUST0762,27,Female,Belo Horizonte,Bronze
+CUST0763,49,Female,Belo Horizonte,Silver
+CUST0764,33,Male,Rio de Janeiro,Bronze
+CUST0765,25,Male,São Paulo,Bronze
+CUST0766,55,Male,Rio de Janeiro,Platinum
+CUST0767,29,Female,Rio de Janeiro,Bronze
+CUST0768,41,Female,Belo Horizonte,Gold
+CUST0769,45,Male,Belo Horizonte,Gold
+CUST0770,25,Female,Rio de Janeiro,Gold
+CUST0771,45,Female,São Paulo,Platinum
+CUST0772,53,Female,Curitiba,Bronze
+CUST0773,43,Female,Rio de Janeiro,Bronze
+CUST0774,25,Male,Belo Horizonte,Silver
+CUST0775,67,Male,São Paulo,Bronze
+CUST0776,45,Male,Rio de Janeiro,Bronze
+CUST0777,45,Male,São Paulo,Bronze
+CUST0778,54,Female,Belo Horizonte,Gold
+CUST0779,58,Female,Curitiba,Silver
+CUST0780,53,Male,Rio de Janeiro,Bronze
+CUST0781,44,Male,São Paulo,Silver
+CUST0782,34,Male,São Paulo,Bronze
+CUST0783,26,Female,Rio de Janeiro,Bronze
+CUST0784,50,Male,São Paulo,Gold
+CUST0785,37,Female,São Paulo,Silver
+CUST0786,30,Male,Porto Alegre,Gold
+CUST0787,45,Male,Rio de Janeiro,Bronze
+CUST0788,65,Other,São Paulo,Gold
+CUST0789,46,Other,Curitiba,Silver
+CUST0790,30,Male,São Paulo,Silver
+CUST0791,63,Female,Curitiba,Silver
+CUST0792,52,Female,Rio de Janeiro,Gold
+CUST0793,23,Female,Curitiba,Silver
+CUST0794,35,Male,Belo Horizonte,Silver
+CUST0795,68,Female,Porto Alegre,Platinum
+CUST0796,22,Female,Curitiba,Gold
+CUST0797,64,Female,São Paulo,Silver
+CUST0798,42,Male,Curitiba,Gold
+CUST0799,19,Male,Rio de Janeiro,Bronze
+CUST0800,27,Male,Rio de Janeiro,Bronze
+CUST0801,47,Female,Rio de Janeiro,Silver
+CUST0802,67,Male,Belo Horizonte,Platinum
+CUST0803,62,Female,São Paulo,Platinum
+CUST0804,22,Other,Belo Horizonte,Bronze
+CUST0805,50,Male,Belo Horizonte,Silver
+CUST0806,18,Female,Porto Alegre,Bronze
+CUST0807,35,Male,Porto Alegre,Platinum
+CUST0808,49,Female,Rio de Janeiro,Platinum
+CUST0809,64,Male,Rio de Janeiro,Silver
+CUST0810,66,Female,São Paulo,Gold
+CUST0811,28,Female,São Paulo,Gold
+CUST0812,38,Female,São Paulo,Silver
+CUST0813,43,Female,Rio de Janeiro,Bronze
+CUST0814,42,Female,São Paulo,Silver
+CUST0815,39,Female,Curitiba,Silver
+CUST0816,44,Female,Belo Horizonte,Silver
+CUST0817,66,Female,Rio de Janeiro,Bronze
+CUST0818,30,Male,Belo Horizonte,Platinum
+CUST0819,50,Female,São Paulo,Bronze
+CUST0820,51,Female,Rio de Janeiro,Silver
+CUST0821,58,Female,Belo Horizonte,Silver
+CUST0822,52,Male,Rio de Janeiro,Silver
+CUST0823,18,Female,Rio de Janeiro,Silver
+CUST0824,38,Male,Curitiba,Bronze
+CUST0825,65,Female,Curitiba,Bronze
+CUST0826,23,Male,Belo Horizonte,Silver
+CUST0827,45,Female,Belo Horizonte,Silver
+CUST0828,34,Other,Belo Horizonte,Bronze
+CUST0829,22,Male,São Paulo,Gold
+CUST0830,48,Other,Rio de Janeiro,Silver
+CUST0831,22,Male,São Paulo,Silver
+CUST0832,55,Female,Rio de Janeiro,Gold
+CUST0833,20,Female,Belo Horizonte,Bronze
+CUST0834,40,Female,São Paulo,Bronze
+CUST0835,54,Female,Curitiba,Gold
+CUST0836,54,Female,Curitiba,Silver
+CUST0837,27,Male,Porto Alegre,Silver
+CUST0838,27,Male,Belo Horizonte,Gold
+CUST0839,36,Female,Curitiba,Gold
+CUST0840,34,Female,São Paulo,Platinum
+CUST0841,38,Female,Porto Alegre,Silver
+CUST0842,31,Female,São Paulo,Silver
+CUST0843,26,Male,Porto Alegre,Silver
+CUST0844,63,Female,São Paulo,Bronze
+CUST0845,18,Male,Curitiba,Silver
+CUST0846,68,Female,Curitiba,Bronze
+CUST0847,62,Male,São Paulo,Platinum
+CUST0848,30,Male,Rio de Janeiro,Silver
+CUST0849,21,Male,Curitiba,Silver
+CUST0850,18,Male,Rio de Janeiro,Bronze
+CUST0851,66,Female,Curitiba,Bronze
+CUST0852,57,Male,Belo Horizonte,Bronze
+CUST0853,49,Male,Rio de Janeiro,Silver
+CUST0854,51,Male,São Paulo,Bronze
+CUST0855,45,Male,São Paulo,Silver
+CUST0856,48,Male,Porto Alegre,Gold
+CUST0857,25,Male,Rio de Janeiro,Gold
+CUST0858,56,Female,Belo Horizonte,Silver
+CUST0859,43,Female,Rio de Janeiro,Bronze
+CUST0860,51,Female,Belo Horizonte,Gold
+CUST0861,20,Male,Curitiba,Gold
+CUST0862,67,Male,Curitiba,Bronze
+CUST0863,29,Female,Rio de Janeiro,Gold
+CUST0864,18,Female,Porto Alegre,Bronze
+CUST0865,61,Male,Porto Alegre,Gold
+CUST0866,22,Male,Belo Horizonte,Platinum
+CUST0867,47,Male,Curitiba,Bronze
+CUST0868,47,Male,São Paulo,Gold
+CUST0869,34,Male,São Paulo,Silver
+CUST0870,65,Female,Curitiba,Platinum
+CUST0871,64,Female,Rio de Janeiro,Silver
+CUST0872,40,Female,Porto Alegre,Gold
+CUST0873,32,Female,Curitiba,Bronze
+CUST0874,54,Female,São Paulo,Bronze
+CUST0875,38,Female,Curitiba,Bronze
+CUST0876,31,Female,Rio de Janeiro,Platinum
+CUST0877,19,Male,Belo Horizonte,Gold
+CUST0878,28,Male,Belo Horizonte,Gold
+CUST0879,68,Male,Curitiba,Platinum
+CUST0880,56,Female,São Paulo,Bronze
+CUST0881,55,Female,Rio de Janeiro,Bronze
+CUST0882,51,Male,Belo Horizonte,Bronze
+CUST0883,55,Female,Porto Alegre,Bronze
+CUST0884,67,Male,Belo Horizonte,Bronze
+CUST0885,51,Female,São Paulo,Silver
+CUST0886,35,Male,São Paulo,Bronze
+CUST0887,47,Male,Rio de Janeiro,Bronze
+CUST0888,32,Female,Porto Alegre,Bronze
+CUST0889,44,Male,São Paulo,Bronze
+CUST0890,68,Male,São Paulo,Platinum
+CUST0891,51,Male,Curitiba,Gold
+CUST0892,69,Female,São Paulo,Platinum
+CUST0893,55,Female,Curitiba,Silver
+CUST0894,50,Male,Belo Horizonte,Bronze
+CUST0895,41,Female,Porto Alegre,Gold
+CUST0896,32,Female,São Paulo,Bronze
+CUST0897,47,Male,São Paulo,Bronze
+CUST0898,59,Male,Porto Alegre,Bronze
+CUST0899,68,Male,Porto Alegre,Bronze
+CUST0900,34,Male,Porto Alegre,Bronze
+CUST0901,22,Female,São Paulo,Bronze
+CUST0902,46,Male,Porto Alegre,Silver
+CUST0903,21,Female,Porto Alegre,Bronze
+CUST0904,27,Female,Belo Horizonte,Bronze
+CUST0905,34,Male,Porto Alegre,Gold
+CUST0906,27,Female,Porto Alegre,Bronze
+CUST0907,34,Male,Belo Horizonte,Bronze
+CUST0908,37,Other,São Paulo,Gold
+CUST0909,41,Female,Rio de Janeiro,Bronze
+CUST0910,22,Female,São Paulo,Bronze
+CUST0911,51,Female,Rio de Janeiro,Silver
+CUST0912,23,Male,Rio de Janeiro,Bronze
+CUST0913,19,Female,São Paulo,Silver
+CUST0914,30,Female,Rio de Janeiro,Gold
+CUST0915,60,Female,São Paulo,Bronze
+CUST0916,60,Female,Porto Alegre,Silver
+CUST0917,65,Female,Curitiba,Silver
+CUST0918,28,Male,São Paulo,Bronze
+CUST0919,68,Male,Curitiba,Silver
+CUST0920,64,Female,Belo Horizonte,Bronze
+CUST0921,40,Male,São Paulo,Silver
+CUST0922,33,Female,São Paulo,Bronze
+CUST0923,48,Female,Belo Horizonte,Silver
+CUST0924,28,Male,Porto Alegre,Bronze
+CUST0925,33,Male,Porto Alegre,Gold
+CUST0926,25,Female,São Paulo,Bronze
+CUST0927,21,Male,São Paulo,Silver
+CUST0928,57,Female,Rio de Janeiro,Silver
+CUST0929,21,Male,São Paulo,Gold
+CUST0930,42,Female,São Paulo,Silver
+CUST0931,20,Male,São Paulo,Silver
+CUST0932,49,Female,Porto Alegre,Gold
+CUST0933,20,Male,Curitiba,Gold
+CUST0934,44,Female,Rio de Janeiro,Bronze
+CUST0935,46,Male,Curitiba,Silver
+CUST0936,49,Female,Rio de Janeiro,Gold
+CUST0937,67,Female,Rio de Janeiro,Platinum
+CUST0938,68,Male,São Paulo,Gold
+CUST0939,36,Male,Belo Horizonte,Bronze
+CUST0940,38,Male,Curitiba,Bronze
+CUST0941,22,Female,Belo Horizonte,Silver
+CUST0942,35,Female,Rio de Janeiro,Gold
+CUST0943,45,Female,Belo Horizonte,Silver
+CUST0944,59,Male,São Paulo,Silver
+CUST0945,39,Male,Curitiba,Gold
+CUST0946,38,Female,Belo Horizonte,Bronze
+CUST0947,23,Female,Rio de Janeiro,Gold
+CUST0948,18,Other,Belo Horizonte,Silver
+CUST0949,22,Male,Belo Horizonte,Bronze
+CUST0950,58,Female,São Paulo,Silver
+CUST0951,29,Male,Belo Horizonte,Gold
+CUST0952,43,Male,São Paulo,Bronze
+CUST0953,63,Female,Porto Alegre,Bronze
+CUST0954,51,Female,Porto Alegre,Platinum
+CUST0955,66,Other,Porto Alegre,Bronze
+CUST0956,31,Male,Belo Horizonte,Silver
+CUST0957,43,Male,Belo Horizonte,Silver
+CUST0958,62,Female,São Paulo,Silver
+CUST0959,44,Female,Porto Alegre,Silver
+CUST0960,26,Male,São Paulo,Bronze
+CUST0961,43,Male,Rio de Janeiro,Silver
+CUST0962,64,Male,São Paulo,Bronze
+CUST0963,39,Female,São Paulo,Silver
+CUST0964,64,Male,Belo Horizonte,Bronze
+CUST0965,47,Male,São Paulo,Silver
+CUST0966,60,Male,Porto Alegre,Bronze
+CUST0967,65,Male,Rio de Janeiro,Bronze
+CUST0968,34,Male,São Paulo,Bronze
+CUST0969,43,Female,Belo Horizonte,Bronze
+CUST0970,53,Male,São Paulo,Gold
+CUST0971,18,Female,São Paulo,Bronze
+CUST0972,25,Male,Porto Alegre,Platinum
+CUST0973,66,Female,São Paulo,Platinum
+CUST0974,52,Female,Porto Alegre,Silver
+CUST0975,69,Female,São Paulo,Bronze
+CUST0976,32,Female,São Paulo,Bronze
+CUST0977,64,Male,Porto Alegre,Gold
+CUST0978,39,Male,Rio de Janeiro,Bronze
+CUST0979,31,Female,São Paulo,Bronze
+CUST0980,43,Other,Rio de Janeiro,Silver
+CUST0981,45,Female,São Paulo,Gold
+CUST0982,40,Female,Porto Alegre,Gold
+CUST0983,31,Female,Rio de Janeiro,Bronze
+CUST0984,41,Male,Porto Alegre,Silver
+CUST0985,19,Male,Curitiba,Bronze
+CUST0986,62,Female,Rio de Janeiro,Bronze
+CUST0987,43,Female,Curitiba,Gold
+CUST0988,31,Male,Rio de Janeiro,Bronze
+CUST0989,68,Female,Curitiba,Bronze
+CUST0990,24,Male,São Paulo,Bronze
+CUST0991,20,Female,Belo Horizonte,Gold
+CUST0992,64,Male,Rio de Janeiro,Gold
+CUST0993,40,Male,Rio de Janeiro,Silver
+CUST0994,63,Female,Belo Horizonte,Gold
+CUST0995,60,Male,Porto Alegre,Bronze
+CUST0996,64,Female,São Paulo,Silver
+CUST0997,62,Female,São Paulo,Bronze
+CUST0998,35,Female,Porto Alegre,Bronze
+CUST0999,55,Male,Belo Horizonte,Silver
